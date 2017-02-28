@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":"AAAA,IAAI,SAAO,QAAQ,UAAR,CAAX;AACA,OAAO,KAAP","file":"index-compiled.js","sourcesContent":["var server=require('./server');\r\nserver.start();"]}
